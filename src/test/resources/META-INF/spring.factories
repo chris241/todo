@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.baw.todo2.\
+    config.SqlTestContainersSpringContextCustomizerFactory
